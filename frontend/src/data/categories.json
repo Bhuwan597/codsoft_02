@@ -1,0 +1,23 @@
+[
+    { "label": "Task Management", "value": "Task Management" },
+    { "label": "Bug Tracking", "value": "Bug Tracking" },
+    { "label": "Project Planning", "value": "Project Planning" },
+    { "label": "Collaboration", "value": "Collaboration" },
+    { "label": "Time Tracking", "value": "Time Tracking" },
+    { "label": "Document Management", "value": "Document Management" },
+    { "label": "Resource Allocation", "value": "Resource Allocation" },
+    { "label": "Team Communication", "value": "Team Communication" },
+    { "label": "Gantt Charts", "value": "Gantt Charts" },
+    { "label": "Sprint Planning", "value": "Sprint Planning" },
+    { "label": "Kanban Boards", "value": "Kanban Boards" },
+    { "label": "Risk Management", "value": "Risk Management" },
+    { "label": "Agile Development", "value": "Agile Development" },
+    { "label": "Budget Tracking", "value": "Budget Tracking" },
+    { "label": "Portfolio Management", "value": "Portfolio Management" },
+    { "label": "Customer Support", "value": "Customer Support" },
+    { "label": "Issue Tracking", "value": "Issue Tracking" },
+    { "label": "Workflow Automation", "value": "Workflow Automation" },
+    { "label": "Dependency Management", "value": "Dependency Management" },
+    { "label": "Test Case Management", "value": "Test Case Management" }
+]
+  
